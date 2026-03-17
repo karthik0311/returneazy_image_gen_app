@@ -3,10 +3,10 @@ export default function Header({ promptCount, outputCount, loading, model }) {
     <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
       <div>
         <div className="inline-flex items-center rounded-full border border-white/10 bg-white/5 px-4 py-1.5 text-sm text-slate-300 backdrop-blur">
-          AI Image Studio
+          Returneazy Image Generator
         </div>
 
-        <h1 className="mt-4 text-4xl font-bold tracking-tight md:text-5xl">
+        <h1 className="mt-4 text-4xl font-bold tracking-tight md:text-3xl">
           Generate polished visuals from saved prompts
         </h1>
 
