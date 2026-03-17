@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Prompt 1",
+    "name": "Luxury Ivory Marble Product Showcase",
+    "template": "A premium studio product photograph of a above product image uploaded The product is placed neatly on a soft ivory marble surface with subtle texture, styled symmetrically to highlight the illustration and the glass vials. Soft natural daylight enters from the left side, creating gentle shadows and a warm, elegant mood. Background is minimal and clean with a shallow depth of field, slightly blurred to keep sharp focus on the product. Colors appear rich and true-to-life — deep magenta, gold, and turmeric yellow tones feel vibrant yet refined. High-resolution, professional e-commerce photography style, premium aesthetic, clean composition. No text, no branding, no hands, no human elements. Shot with a 50mm lens look, f/2.8, ultra-sharp details, soft highlights, luxury gifting presentation."
+  },
+  {
+    "id": "Prompt 2",
+    "name": "Premium Kumkum & Turmeric Luxury Hero Shot",
+    "template": "A premium studio hero photograph of an above product paired with miniature glass vials of kumkum and turmeric.The product is centered and perfectly aligned on a light ivory marble surface with subtle natural texture.Soft diffused daylight illuminates the product from the left, creating gentle shadows and a calm, luxurious feel.Background is clean, minimal, and softly blurred with shallow depth of field.Rich, vibrant colors—deep magenta, gold accents, turmeric yellow—appear elegant and premium.Ultra-high resolution, professional e-commerce photography, sharp focus, clean composition.No text, no branding, no human elements, no clutter.*Shot with a 50mm lens look, f/2.8, natural highlights, soft shadows, premium catalog lighting.*"
+  },
+  {
+    "id": "Prompt 3",
+    "name": "Premium Traditional Return Gift Packaging Hero Shot",
+    "template":"A premium studio hero photograph of a traditional Indian return gift product, featuring a beautifully illustrated card sealed inside a transparent pouch, with miniature glass vials of kumkum and turmeric **attached to the pouch itself** as part of the product packaging.The product is centered and perfectly aligned on a light ivory marble surface with subtle natural texture.Soft, diffused daylight enters from the left side, creating gentle, realistic shadows and a calm, luxurious mood.The transparent pouch is clearly visible with natural folds and reflections, showcasing the illustration and the attached glass vials in a neat, cohesive presentation (vials are not separated or placed independently).Background is clean, minimal, and softly blurred with a shallow depth of field to keep full focus on the product.Colors appear rich, vibrant, and premium — deep magenta, gold accents, turmeric yellow, and kumkum red look elegant and true-to-life.Ultra–high resolution, professional e-commerce photography style, sharp focus, clean composition, luxury gifting aesthetic.No text, no branding, no hands, no human elements, no clutter.*Shot with a 50mm lens look, f/2.8, natural highlights, soft shadows, premium catalog lighting.*"
+  },
+  {
+    "id": "Prompt 4",
+    "name": "Macro Luxury Kumkum & Turmeric Detail Shot",
+    "template":"Macro close-up photograph of a premium product shown above with the miniature glass vials filled with kumkum and turmeric.Extreme detail highlights the smooth illustration finish, vibrant color tones, and the clarity of the glass vials with fine powder texture visible inside.Soft studio lighting with gentle highlights enhances material quality without harsh reflections.\nBackground is minimal and softly blurred, creating depth and elegance.Shot in macro lens style, ultra-sharp focus, luxury product photography aesthetic.No text, no branding, no human elements.*Shot with a 50mm lens look, f/2.8, natural highlights, soft shadows, premium catalog lighting.*"
+  },
+  {
+    "id": "Prompt 5",
+    "name": "Premium Seemantham Lifestyle Gift Showcase",
+    "template":"A premium lifestyle photograph of a above product placed on an elegant neutral surface, subtly styled with soft pastel silk fabric and a minimal brass accent in the background.The product remains the hero, positioned naturally as part of a refined Indian gifting setup.Warm natural light creates a welcoming, celebratory mood suitable for Seemantham and baby shower occasions.Background elements are minimal and softly out of focus, adding context without distraction.High-resolution lifestyle product photography, premium gifting aesthetic, clean and elegant composition.No text, no branding, no people.\n*Shot with a 50mm lens look, f/2.8, natural highlights, soft shadows, premium catalog lighting.*"
+  },
+  {
+    "id": "Prompt 5",
+    "name": "Premium Seemantham Lifestyle Gift Showcase",
+    "template": "Macro close-up photograph of a premium product shown above with the miniature glass vials filled with kumkum and turmeric. Extreme detail highlights the smooth illustration finish, vibrant color tones, and the clarity of the glass vials with fine powder texture visible inside. Soft studio lighting with gentle highlights enhances material quality without harsh reflections. Background is minimal and softly blurred, creating depth and elegance. Shot in macro lens style, ultra-sharp focus, luxury product photography aesthetic. No text, no branding, no human elements. Shot with a 50mm lens look, f/2.8, natural highlights, soft shadows, premium catalog lighting"
+  }
+]
