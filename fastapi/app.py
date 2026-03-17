@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from openai import OpenAI
 
 
@@ -181,7 +182,7 @@ app = FastAPI(title="Image Prompt App")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["http://localhost:5173"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -220,3 +221,15 @@ async def generate_images(
         request_base_url="http://localhost:8000/",
     )
     return result
+
+@app.get("/download/{file_name}")
+def download_file(file_name: str):
+    file_path = settings.generated_dir / file_name
+    if not file_path.exists():
+        raise HTTPException(status_code=404, detail="File not found")
+
+    return FileResponse(
+        path=file_path,
+        filename=file_name,
+        media_type="application/octet-stream"
+    )
