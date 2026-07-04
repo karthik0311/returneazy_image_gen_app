@@ -1,32 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="561ee36e-9f93-49e4-b3b5-710c095d7926" name="Changes" comment="" />
+    <list default="true" id="561ee36e-9f93-49e4-b3b5-710c095d7926" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/returneazy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Deep Blue Sea – Personalized Thank You Card for Baby’s First Birthday.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Ocean Hugs – Personalized Thank You Card for Baby’s First Birthday.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Teddy Bear Theme – Personalized Thank You Card for Baby’s First Birthday.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Under the Sea – Personalized Thank You Card for Baby’s First Birthday.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/Unicorn Theme – Personalized Thank You Card for Baby’s First Birthday.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prompt images/20260115_220324.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/returneazy_image_gen_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/returneazy_image_gen_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3B3I1AOFESUyLYFglVLsPpybylw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/Admin/AppData/Roaming/JetBrains/PyCharm2025.1/node/versions/24.14.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\returneazy\returneazy_image_gen_app\fastapi" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,7 +79,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773711109799</updated>
-      <workItem from="1773711110874" duration="6000" />
+      <workItem from="1773711110874" duration="11200000" />
+      <workItem from="1774968338306" duration="1211000" />
+      <workItem from="1783145975764" duration="49000" />
     </task>
     <servers />
   </component>
